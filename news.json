@@ -1,0 +1,24 @@
+{
+  "investigations": [
+    {
+      "id": "1",
+      "title": "Stanley Palace",
+      "location": "Chester, UK",
+      "date": "19 Jul 2025",
+      "time": "9:00pm - 2:00am",
+      "description": "One of Chester's most haunted buildings. Full lock-in investigation with the Ghost Haunt UK team. EMF sweeps, EVP sessions, SLS camera and spirit box included.",
+      "booking_url": "https://ghosthauntuk.com",
+      "tag": "NEW",
+      "spots_left": 8
+    }
+  ],
+  "announcements": [
+    {
+      "id": "a1",
+      "title": "Ghost Hunter App is Live!",
+      "body": "Download Ghost Hunter on Android — real EMF, EVP recorder, SLS camera. No fake effects.",
+      "date": "9 Jun 2025",
+      "emoji": "🚀"
+    }
+  ]
+}
