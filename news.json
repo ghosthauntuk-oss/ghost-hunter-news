@@ -10,6 +10,17 @@
       "booking_url": "https://ghosthauntuk.com",
       "tag": "NEW",
       "spots_left": 8
+    },
+    {
+      "id": "2",
+      "title": "Antwerp Mansion",
+      "location": "Manchester, UK",
+      "date": "2 Aug 2025",
+      "time": "10:00pm - 3:00am",
+      "description": "A Victorian mansion with reports of shadow figures on the upper floors. Join the Ghost Haunt UK team for a full investigation.",
+      "booking_url": "https://ghosthauntuk.com",
+      "tag": "LAST FEW TICKETS",
+      "spots_left": 3
     }
   ],
   "announcements": [
