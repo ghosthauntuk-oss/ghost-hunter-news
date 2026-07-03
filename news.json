@@ -2,34 +2,82 @@
   "investigations": [
     {
       "id": "1",
-      "title": "Stanley Palace",
-      "location": "Chester, UK",
-      "date": "19 Jul 2025",
+      "title": "Mill Street Barracks",
+      "location": "St Helens, UK",
+      "date": "11 Jul 2026",
       "time": "9:00pm - 2:00am",
-      "description": "One of Chester's most haunted buildings. Full lock-in investigation with the Ghost Haunt UK team. EMF sweeps, EVP sessions, SLS camera and spirit box included.",
-      "booking_url": "https://ghosthauntuk.com",
-      "tag": "NEW",
-      "spots_left": 8
+      "description": "Back to the barracks. A former military stronghold with unexplained footsteps in empty corridors and shadow figures reported on the upper floors. Team investigation with full equipment sweep.",
+      "booking_url": "https://www.eventbrite.co.uk/o/ghosthauntuk-83923127243",
+      "tag": "SOLD OUT",
+      "spots_left": -1
     },
     {
       "id": "2",
-      "title": "Antwerp Mansion",
-      "location": "Manchester, UK",
-      "date": "2 Aug 2025",
-      "time": "10:00pm - 3:00am",
-      "description": "A Victorian mansion with reports of shadow figures on the upper floors. Join the Ghost Haunt UK team for a full investigation.",
-      "booking_url": "https://ghosthauntuk.com",
-      "tag": "LAST FEW TICKETS",
-      "spots_left": 3
+      "title": "Clifton Masonic Temple",
+      "location": "Clifton, UK",
+      "date": "1 Aug 2026",
+      "time": "9:00pm - 2:00am",
+      "description": "Behind closed doors at the Masonic Temple — ritual chambers, hidden cellars and a history few outsiders have seen. One of our most requested locations.",
+      "booking_url": "https://www.eventbrite.co.uk/o/ghosthauntuk-83923127243",
+      "tag": "SOLD OUT",
+      "spots_left": -1
+    },
+    {
+      "id": "3",
+      "title": "30 East Drive",
+      "location": "Pontefract, UK",
+      "date": "3 Sep 2026",
+      "time": "9:00pm - 3:00am",
+      "description": "The most violent poltergeist haunting in Europe — home of the infamous Black Monk of Pontefract. Strictly limited to 6 investigators. Not for the faint-hearted.",
+      "booking_url": "https://www.eventbrite.co.uk/o/ghosthauntuk-83923127243",
+      "tag": "SOLD OUT",
+      "spots_left": -1
+    },
+    {
+      "id": "4",
+      "title": "Lancaster Castle & Gaol",
+      "location": "Lancaster, UK",
+      "date": "3 Oct 2026",
+      "time": "9:00pm - 2:00am",
+      "description": "Nearly a thousand years of imprisonment, trials and executions — including the Pendle Witches. One of the most historically dark buildings in the North of England.",
+      "booking_url": "https://www.eventbrite.co.uk/o/ghosthauntuk-83923127243",
+      "tag": "SOLD OUT",
+      "spots_left": -1
+    },
+    {
+      "id": "5",
+      "title": "Castle of Park",
+      "location": "Glenluce, Scotland",
+      "date": "20-22 Nov 2026",
+      "time": "Weekend residential",
+      "description": "A full weekend locked inside a 16th-century Scottish tower house. Residential investigation limited to just 5 investigators — our biggest expedition of the year.",
+      "booking_url": "https://www.eventbrite.co.uk/o/ghosthauntuk-83923127243",
+      "tag": "SOLD OUT",
+      "spots_left": -1
     }
   ],
   "announcements": [
     {
       "id": "a1",
-      "title": "Ghost Hunter App is Live!",
-      "body": "Download Ghost Hunter on Android — real EMF, EVP recorder, SLS camera. No fake effects.",
-      "date": "9 Jun 2025",
+      "title": "Ghost Hunter App — Beta Live!",
+      "body": "You're using it right now. Real EMF readings, EVP recording, SLS camera with entity tracking and a voiced spirit box — all running on your phone's actual sensors. Found a bug or got an idea? Message us on Facebook.",
+      "date": "Jul 2026",
       "emoji": "🚀"
+    },
+    {
+      "id": "a2",
+      "title": "2026 Investigations Fully Booked",
+      "body": "Every investigation for the rest of 2026 has sold out. Follow Ghost Haunt UK on Facebook to be first in line when 2027 dates are announced — they go fast.",
+      "date": "Jul 2026",
+      "emoji": "🎟️"
+    },
+    {
+      "id": "a3",
+      "title": "Take the App on a Hunt",
+      "body": "Coming to an investigation with us? Bring Ghost Hunter along — run the SLS camera and EVP recorder side by side with our professional kit and compare the evidence.",
+      "date": "Jul 2026",
+      "emoji": "👻"
     }
   ]
 }
+
